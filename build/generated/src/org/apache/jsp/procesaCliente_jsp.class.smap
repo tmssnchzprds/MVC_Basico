@@ -1,0 +1,18 @@
+SMAP
+procesaCliente_jsp.java
+JSP
+*S JSP
+*F
++ 0 procesaCliente.jsp
+procesaCliente.jsp
+*L
+5,2:44
+7:46,9
+8,9:55
+23:71,2
+24:73
+25:74,3
+26,3:77
+29,3:80,3
+32,3:89
+*E
